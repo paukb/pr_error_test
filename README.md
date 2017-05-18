@@ -3,4 +3,4 @@ Testing a PR issue I've seen with GHE. There seems to be issues with the built i
 
 adding changes.
 
-Version: 1.0.0.1
+Version: 1.0.0.2
